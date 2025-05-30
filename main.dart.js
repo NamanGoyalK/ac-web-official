@@ -35661,7 +35661,7 @@ $S:321}
 A.a8B.prototype={
 $1(a){var s=null,r=this.a,q=r.b,p=Math.min(a/q,1),o=q*0.2,n=1-(a>o?Math.min((a-o)/(q*0.8-o),1):0),m=-50*n,l=0.2126*n,k=1-n,j=0.7152*n,i=0.0722*n
 r=r.a
-return A.af8(A.k3(A.bx(30*p),new A.Cv(new A.SK(s,s,A.b([l+k,j,i,0,m,l,j+k,i,0,m,l,j,i+k,0,m,0,0,0,1,0],t.n),B.yD),new A.oQ(A.akl(s,s,new A.pb("assets/images/home_page_board.jpg",1,s,B.R5)),s,r-r*0.4*p,q-o*p,B.dN,s),s)),1.03)},
+return A.af8(A.k3(A.bx(30*p),new A.Cv(new A.SK(s,s,A.b([l+k,j,i,0,m,l,j+k,i,0,m,l,j,i+k,0,m,0,0,0,1,0],t.n),B.yD),new A.oQ(A.akl(s,s,new A.pb("assets/images/board_members_group_with_poster.jpeg",1,s,B.R5)),s,r-r*0.4*p,q-o*p,B.dN,s),s)),1.03)},
 $S:320}
 A.a8C.prototype={
 $1(a){var s=this.a.b,r=s*0.8,q=a+s*0.2*Math.min(a/s,1)/2
